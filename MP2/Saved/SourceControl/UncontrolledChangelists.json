@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alecb/Downloads/CS415-Level-Design-Pt2-Complete/MP2/Content/LearningKit_Games/Maps/MY_Level.umap",
+				"C:/Users/alecb/Downloads/CS415-Level-Design-Pt2-Complete/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/alecb/Downloads/CS415-Level-Design-Pt2-Complete/MP2/Content/MY_LevelText/BP_LevelText.uasset",
+				"C:/Users/alecb/Downloads/CS415-Level-Design-Pt2-Complete/MP2/Content/MY_Pursuer/BP_Pursuer.uasset",
 				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/MY_UI/W_Restart.uasset",
 				"C:/Users/siyaap2/OneDrive - University of Illinois - Urbana/CS 415/Unreal Projects/Patel_MP2/MP2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
